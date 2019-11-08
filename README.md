@@ -1,1 +1,1 @@
-# groupes10.py
+Class guichetier
